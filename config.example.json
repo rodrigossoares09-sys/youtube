@@ -1,0 +1,22 @@
+{
+  "output_dir": "outputs",
+  "seed": 42,
+  "story_provider": "local",
+  "ollama_url": "http://127.0.0.1:11434",
+  "ollama_model": "qwen2.5:7b",
+  "voice_provider": "system",
+  "speech_rate": 135,
+  "windows_voice": "",
+  "piper_executable": "piper",
+  "piper_model": "models/pt_BR-voice.onnx",
+  "piper_license": "",
+  "image_provider": "illustration",
+  "image_dir": "assets/images",
+  "image_license": "",
+  "music_file": "",
+  "music_license": "",
+  "font_file": "",
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "threads": 2
+}

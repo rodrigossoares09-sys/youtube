@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "test_mode": true,
+  "seed": 42,
+  "story_provider": "teste local",
+  "voice_provider": "espeak",
+  "image_provider": "illustration",
+  "main": {
+    "passed": true,
+    "width": 1920,
+    "height": 1080,
+    "seconds": 21.114166,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "decode": "passed",
+    "caption_alignment": "limites de frases medidos no áudio; não alinhamento palavra a palavra",
+    "human_review_required": true
+  },
+  "short": {
+    "passed": true,
+    "width": 1080,
+    "height": 1920,
+    "seconds": 13.211727,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "decode": "passed",
+    "caption_alignment": "limites de frases medidos no áudio; não alinhamento palavra a palavra",
+    "human_review_required": true
+  },
+  "paid_api_calls": 0,
+  "human_review_required": true,
+  "publication": "manual; nenhuma integração com YouTube"
+}
