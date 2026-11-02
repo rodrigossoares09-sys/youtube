@@ -4,7 +4,9 @@ Programa Python para Windows que transforma uma história em **MP4 Full HD 16:9 
 
 ## Assistir aos exemplos já gerados
 
-Abra [vídeo principal](exemplo/principal.mp4) ou [Short vertical](exemplo/short.mp4). No GitHub, use **Download raw file** para salvar o MP4. Para baixar o programa inteiro com os exemplos, use **Code → Download ZIP**, extraia o arquivo e abra `exemplo/principal.mp4` no VLC ou Media Player. Não é preciso instalar o programa para assistir aos exemplos.
+**Atenção:** `gerar_teste.bat` produz apenas um teste curto. Para um vídeo de 8–12 minutos, use `gerar_video.bat`. O teste curto original está em `exemplo/teste_curto.mp4`.
+
+Abra o [vídeo completo de 9min45s](exemplo/principal.mp4) ou o [Short vertical](exemplo/short.mp4), ambos renderizados e verificados. O [teste curto de 21 segundos](exemplo/teste_curto.mp4) está separado. No GitHub, use **Download raw file** para salvar o MP4. Para baixar o programa inteiro com os exemplos, use **Code → Download ZIP**, extraia o arquivo e abra `exemplo/principal.mp4` no VLC ou Media Player. Não é preciso instalar o programa para assistir aos exemplos.
 
 Os exemplos usam voz eSpeak NG e ilustrações procedurais simples. São uma validação técnica, não uma amostra de voz neural ou imagens cinematográficas.
 

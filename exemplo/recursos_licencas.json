@@ -1,0 +1,110 @@
+[
+  {
+    "file": "imagens/cena_001.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "Casa antiga isolada em Vale das Pedras, floresta noturna, uma janela iluminada, sem texto."
+  },
+  {
+    "file": "imagens/cena_002.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "O quarto da avó em Vale das Pedras, uma fotografia sem rostos, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_003.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A escola antiga em Vale das Pedras, um bilhete dobrado em quatro, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_004.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A sala de projeção em Vale das Pedras, uma fita com a sua voz, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_005.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "O arquivo municipal em Vale das Pedras, um mapa desenhado na parede, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_006.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A torre do relógio em Vale das Pedras, um livro de nomes apagados, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_007.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A estação desativada em Vale das Pedras, uma chave ainda quente, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_008.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A capela sem sino em Vale das Pedras, um retrato da avó quando jovem, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_009.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A ponte coberta em Vale das Pedras, uma caixa cheia de relógios, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_010.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "O cemitério da colina em Vale das Pedras, um caderno com páginas costuradas, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_011.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "A casa do vigia em Vale das Pedras, um envelope destinado a ela, terror psicológico cinematográfico, noite, neblina, personagem Clara, sem texto."
+  },
+  {
+    "file": "imagens/cena_012.png",
+    "source": "Ilustração procedural local, sem IA",
+    "license": "Criação procedural original; nenhum recurso externo incorporado",
+    "synthetic": true,
+    "ai_generated": false,
+    "prompt": "Corredor de casa antiga, porta entreaberta, luz vermelha e sombras, desfecho misterioso."
+  },
+  {
+    "type": "voice",
+    "source": "espeak",
+    "license": "Verificar termos da voz instalada antes do uso comercial; eSpeak NG usa GPL-3.0-or-later (software).",
+    "synthetic": true
+  },
+  {
+    "type": "music",
+    "source": "Síntese procedural original de ondas e ruído, sem amostras externas",
+    "license": "Trilha original gerada por este programa, uso permitido",
+    "synthetic": true
+  }
+]
